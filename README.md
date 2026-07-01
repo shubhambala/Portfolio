@@ -1,48 +1,50 @@
-# Shubham Balakrishnan — Resume Website
+# 🌐 Shubham Balakrishnan Portfolio
 
-A single-page, self-contained resume site: hero with photo, animated stats,
-experience timeline with click-to-expand detail, skills & certifications,
-education, and contact — built for recruiters/hiring managers to skim fast.
+Professional portfolio showcasing Industrial AI, Digital Transformation, Mining Solutions, Dashboards and Digital Products.
 
-## Files
+## 🚀 Live Website
 
-- `Shubham-Balakrishnan-Resume.html` — the standalone, offline-ready site.
-  All fonts, images, and the downloadable resume PDF are bundled inside this
-  one file. Open it directly in any browser — no server or build step needed.
-- `Resume.dc.html` — the editable source (Design Component). Keep this if you
-  want to make future edits in this tool; it references `assets/shubham.png`
-  and `uploads/profile.pdf` as separate files.
+👉 **https://shubhambala.github.io/portfolio/**
 
-## Hosting on GitHub Pages
+## About
 
-1. Create a repo (e.g. `yourname.github.io` or any repo name).
-2. Add the standalone file to the repo root and rename it `index.html`:
-   ```
-   cp "Shubham-Balakrishnan-Resume.html" index.html
-   ```
-3. Commit and push to the `main` branch.
-4. In the repo's **Settings → Pages**, set the source to the `main` branch,
-   root folder.
-5. Your site will be live at:
-   - `https://yourname.github.io` (if the repo is named `yourname.github.io`), or
-   - `https://yourname.github.io/repo-name` (for any other repo name).
+This repository hosts my personal portfolio website, highlighting my professional journey, featured projects, consulting expertise and digital products.
 
-That's it — no build tools, no dependencies, no separate asset uploads
-required since everything is inlined in the one HTML file.
+### Highlights
 
-## Making edits later
+- 🏭 Industrial AI & Mining Solutions
+- 📊 Executive Dashboards
+- 💼 Consulting Experience
+- 🚀 Featured Products
+- 🎥 Content Creation
+- 📄 Interactive Resume
 
-- **Text/content:** open `Shubham-Balakrishnan-Resume.html` in a code editor
-  and search for the copy you want to change (it's plain HTML/JS, human
-  readable).
-- **Design changes:** easier to make in `Resume.dc.html` (the original
-  editable source), then re-export to standalone HTML.
-- **Resume PDF:** the Download button points at the bundled copy of your
-  resume PDF. To update it, replace `uploads/profile.pdf` in the source
-  project and re-export.
+## Featured Projects
 
-## Contact info shown on the site
+- 🏭 Mining Intelligence Lab
+- 🌐 Professional Portfolio
+- ✈️ ExploreXcite
+- 📈 Industrial AI Products (In Progress)
 
-- Email: shubham.bala@gmail.com
-- Phone: +91 63629 95065
-- LinkedIn: linkedin.com/in/shubhambala
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## Author
+
+**Shubham Balakrishnan**
+
+Mining Engineer • Digital Transformation Consultant • Industrial AI Builder
+
+🔗 **Portfolio:** https://shubhambala.github.io/portfolio/
+
+🔗 **GitHub:** https://github.com/shubhambala
+
+🔗 **LinkedIn:** https://linkedin.com/in/shubhambala
