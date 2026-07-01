@@ -1,21 +1,45 @@
-👋 Hi
-
-I'm Shubham Balakrishnan
+------------------------------------------------
+Shubham Balakrishnan
 
 Mining Engineer
-
 Digital Transformation Consultant
-
 Industrial AI Builder
 
-Projects
+Turning Industrial Challenges into Digital Solutions.
+
+[ View Mining Intelligence Lab ]
+[ Download Resume ]
+
+------------------------------------------------
+
+About
+
+13+ years across Mining Operations, Planning,
+Business Intelligence and Digital Transformation.
+
+------------------------------------------------
+
+Featured Projects
 
 🏭 Mining Intelligence Lab
 
-📊 Industrial Dashboards
+💼 Professional Portfolio
 
-✈ Travel
+✈️ ExploreXcite
 
-💼 My Works
+------------------------------------------------
 
-📩 Contact
+Current Focus
+
+• Industrial AI
+• Mining Analytics
+• Digital Transformation
+• Dashboard Engineering
+
+------------------------------------------------
+
+Contact
+
+LinkedIn
+GitHub
+Email
